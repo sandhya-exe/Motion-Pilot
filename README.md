@@ -20,24 +20,24 @@ By combining AI, computer vision, and modern web technologies, Motion Pilot show
 
 Instructions for Running the Code
 
-Open the project folder and run demo_fullscreen.html in a modern browser such as Google Chrome or Microsoft Edge (recommended for full voice recognition support).
-Grant camera and microphone permissions when prompted, as the application requires:
+1. Open the project folder and run demo_fullscreen.html in a modern browser such as Google Chrome or Microsoft Edge (recommended for full voice recognition support).
+2. Grant camera and microphone permissions when prompted, as the application requires:
 Camera access for hand gesture recognition
 Microphone access for voice commands
-Start the system by:
+3. Start the system by:
 Clicking “Start Camera”
 Optionally enabling “Start Voice Recognition”
-Upload a presentation (PPT/PDF), video file, or use the built-in sample presentation to begin interaction.
-Use supported gestures and voice commands for navigation:
+4. Upload a presentation (PPT/PDF), video file, or use the built-in sample presentation to begin interaction.
+5. Use supported gestures and voice commands for navigation:
 Swipe Right → Next Slide
 Swipe Left → Previous Slide
 Open Palm → Play/Pause
 Fist → Reset
 Voice commands such as “next”, “previous”, “play”, and “go to slide 3”
-The project also includes a Whiteboard Mode, which can be used during presentations or video demonstrations for real-time explanations and annotations.
-For best performance:
+6. The project also includes a Whiteboard Mode, which can be used during presentations or video demonstrations for real-time explanations and annotations.
+7. For best performance:
 Use good lighting conditions
 Keep your hand visible within the camera frame
 Maintain a stable internet connection for browser API support
 Recommended resolution: 720p webcam at 30 FPS
-No backend server setup is required. All AI processing runs locally in the browser for privacy and low latency.
+8. No backend server setup is required. All AI processing runs locally in the   browser for privacy and low latency.
